@@ -1,4 +1,4 @@
-import { useState, useEffect } from 'react';
+import { useState } from 'react';
 import styled from 'styled-components';
 import { useGlobalContext } from '../context/appContext';
 import { Navigate } from 'react-router-dom';
